@@ -1,2 +1,2 @@
 # social
-Repository for archiving every social media post and information about them
+ Repository with every resource made and used in Abendiix's social media posts.

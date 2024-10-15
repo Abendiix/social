@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1920"
+   viewBox="0 0 285.74999 508"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="F5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.13095539"
+     inkscape:cx="-397.08178"
+     inkscape:cy="458.17129"
+     inkscape:window-width="1536"
+     inkscape:window-height="792"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1" /><path
+     d="M 0,0 V 508 H 285.75 V 0 Z m 55.5625,87.312501 h 148.16667 c 1.46124,0 2.64583,1.18459 2.64583,2.64583 V 365.125 c 0,1.46124 -1.1846,2.64583 -2.64583,2.64583 H 55.5625 c -1.461223,0 -2.645833,-1.18461 -2.645833,-2.64583 V 89.958331 c 0,-1.46121 1.184621,-2.64583 2.645833,-2.64583 z"
+     style="fill:#fa8805;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.4"
+     id="path2"
+     inkscape:label="background" /><path
+     d="m 55.5625,87.31248 c -1.461213,0 -2.645833,1.184621 -2.645833,2.645833 V 365.12498 c 0,1.46122 1.184609,2.64583 2.645833,2.64583 h 148.16668 c 1.46123,0 2.64583,-1.18459 2.64583,-2.64583 V 89.958313 c 0,-1.461247 -1.18459,-2.645833 -2.64583,-2.645833 z m 0,2.645833 h 2.645833 142.875007 2.64584 v 2.645834 269.875003 2.64583 H 201.08334 58.208333 55.5625 V 362.47915 92.604147 Z"
+     style="fill:#f5efe9;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.4"
+     id="path1"
+     inkscape:label="frame" /></svg>
