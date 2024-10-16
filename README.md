@@ -14,7 +14,7 @@ This way of making social media posts is not typical and may not work as well as
 With all of this taken into consideration, the aim is to post on as much social media plaftorms as possible to not force anyone to make an account on a platform that they do not want to be part of. To go even further, I prepared an RSS for people that prefer this method and to avoid leaving my way of communicating any news or information with people to a platform in which I do not have any control and that cannot assure me when it may end its services. The RSS file can be accessed at [abendiix.com/rss.xml](https://abendiix.com/rss.xml)
 
 The 4 posts' categories and their symbols are:
-Release - Release posts will refer to any release/launch of any game, tool, project or anything similar. 
+Symbol for the relase category. It is a red rhombus with a dot on the middle. The symbol has a darker red shadow and a red creamy white outline Release - Release posts will refer to any release/launch of any game, tool, project or anything similar. 
 Preview - Preview posts will refer to anything related to Abendiix's project to showcase elements, parts, information and much more about those projects.
 Update - Update posts will refer to any change made to Abendiix's project. Updates may go from small changes like adding a functionality to a website to bigger changes or updates such as a completely new version of a game.
 Extra - Extra posts will refer to anything not covered in the previous categories. Extra posts may cover special events, celebrating something, communicating something the previous categories do not cover and more.
@@ -27,3 +27,18 @@ When every frame for every category was finished, I imported them onto [Kdenlive
 ### Preview
 A preview of every category and size for taking a quick look at them:
 
+https://github.com/user-attachments/assets/ca083da5-f115-41d9-9d75-9110ed85bd7d
+
+https://github.com/user-attachments/assets/ca913919-2d53-42f7-8691-431ac6753e51
+
+https://github.com/user-attachments/assets/3cf36563-1d2f-4622-87f8-0373e9233533
+
+https://github.com/user-attachments/assets/6686e3f3-ff92-48cf-85ec-b075cca62544
+
+https://github.com/user-attachments/assets/f5983a38-f4e3-4622-a363-659f212a4c2a
+
+https://github.com/user-attachments/assets/21c088a8-efa6-47eb-be6f-bcd20deb9d50
+
+https://github.com/user-attachments/assets/0f968fde-2bd0-454e-ac18-f9c362c2e8e1
+
+https://github.com/user-attachments/assets/a7574ba8-bdf2-48d1-a828-19db39f55348
