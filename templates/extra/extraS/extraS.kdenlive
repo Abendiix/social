@@ -503,7 +503,7 @@
   <entry in="00:00:00.000" out="00:00:00.083" producer="producer5"/>
   <entry in="00:00:00.000" out="00:00:00.083" producer="producer6"/>
   <entry in="00:00:00.000" out="00:00:00.083" producer="producer7"/>
-  <entry in="00:00:00.000" out="00:00:02.300" producer="tractor4"/>
+  <entry in="00:00:00.000" out="00:00:02.283" producer="tractor4"/>
  </playlist>
  <tractor id="tractor5" in="00:00:00.000" out="00:00:02.283">
   <property name="kdenlive:projectTractor">1</property>
