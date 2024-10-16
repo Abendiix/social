@@ -13,10 +13,17 @@ This way of making social media posts is not typical and may not work as well as
 
 With all of this taken into consideration, the aim is to post on as much social media plaftorms as possible to not force anyone to make an account on a platform that they do not want to be part of. To go even further, I prepared an RSS for people that prefer this method and to avoid leaving my way of communicating any news or information with people to a platform in which I do not have any control and that cannot assure me when it may end its services. The RSS file can be accessed at [abendiix.com/rss.xml](https://abendiix.com/rss.xml)
 
-The 4 posts' categories and their symbols are:
-Symbol for the relase category. It is a red rhombus with a dot on the middle. The symbol has a darker red shadow and a red creamy white outline Release - Release posts will refer to any release/launch of any game, tool, project or anything similar. 
+The 4 posts' categories and their symbols are (in order:
+
+<img alt="Symbol for the relase category. It is a red rhombus with a dot on the middle. The symbol has a darker red shadow and a red creamy white outline." src="https://github.com/Abendiix/social/blob/main/symbols/release.svg" style="width: 10%"><img alt="Symbol for the preview category. It is a blue circle with a dot on the middle. The symbol has a darker blue shadow and a blue creamy white outline." src="https://github.com/Abendiix/social/blob/main/symbols/preview.svg" style="width: 10%"><img alt="Symbol for the update category. It is a green triangle with a dot on the middle. The symbol has a darker green shadow and a green creamy white outline." src="https://github.com/Abendiix/social/blob/main/symbols/update.svg" style="width: 10%"><img alt="Symbol for the extra category. It is an orange cross with 4 dots close to each angle of the cross. The symbol has a darker orange shadow and a orange creamy white outline.
+" src="https://github.com/Abendiix/social/blob/main/symbols/extra.svg" style="width: 10%">
+
+Release - Release posts will refer to any release/launch of any game, tool, project or anything similar. 
+
 Preview - Preview posts will refer to anything related to Abendiix's project to showcase elements, parts, information and much more about those projects.
+
 Update - Update posts will refer to any change made to Abendiix's project. Updates may go from small changes like adding a functionality to a website to bigger changes or updates such as a completely new version of a game.
+
 Extra - Extra posts will refer to anything not covered in the previous categories. Extra posts may cover special events, celebrating something, communicating something the previous categories do not cover and more.
 
 ### How
