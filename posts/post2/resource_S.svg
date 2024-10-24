@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1080"
+   viewBox="0 0 285.74999 285.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="resource_S.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.52382155"
+     inkscape:cx="397.08179"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1536"
+     inkscape:window-height="792"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       width="285.75"
+       height="285.75"
+       id="rect1"
+       x="0"
+       y="0"
+       style="stroke-width:0.595312"
+       inkscape:label="background" />
+    <rect
+       class="cls-1"
+       x="95.349312"
+       y="182.22748"
+       width="95.722221"
+       height="8.5086412"
+       id="rect2"
+       style="fill:#ffffff;stroke-width:0.354526"
+       inkscape:label="bottom_bar"
+       transform="translate(-0.33542142)" />
+    <polygon
+       class="cls-1"
+       points="374.72,180 254.72,300 374.72,300 254.72,180 "
+       id="polygon3"
+       style="fill:#ffffff"
+       transform="matrix(0.35452672,0,0,0.35452672,57.788582,57.788585)"
+       inkscape:label="X" />
+    <polygon
+       class="cls-1"
+       points="165,180 105,300 225,300 "
+       id="polygon1"
+       style="fill:#ffffff"
+       transform="matrix(0.35452672,0,0,0.35452672,57.788582,57.788585)"
+       inkscape:label="A" />
+    <rect
+       class="cls-1"
+       x="95.349312"
+       y="95.013893"
+       width="95.722221"
+       height="8.5086412"
+       id="rect3"
+       style="fill:#ffffff;stroke-width:0.354526"
+       inkscape:label="top_bar"
+       transform="translate(-0.33542142)" />
+  </g>
+</svg>
