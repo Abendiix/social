@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1920"
+   viewBox="0 0 285.74999 508"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="resource_V.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.37427491"
+     inkscape:cx="304.58895"
+     inkscape:cy="1318.5495"
+     inkscape:window-width="1536"
+     inkscape:window-height="792"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       width="285.75"
+       height="508"
+       id="rect1"
+       x="0"
+       y="0"
+       style="stroke-width:0.793749;fill:#000000;fill-opacity:1"
+       inkscape:label="background" />
+    <g
+       style="shape-rendering:crispEdges"
+       id="g2"
+       transform="matrix(5.55625,0,0,5.55625,79.279766,88.01601)"
+       inkscape:label="boto">
+      <g
+         id="layer1-5"
+         inkscape:label="boto"
+         transform="translate(-1,13)">
+        <path
+           d="M 10,1 V 2 H 9 v 1 h 1 1 V 2 h 1 V 1 H 11 Z M 3,5 v 1 1 1 1 1 1 1 1 h 1 1 1 1 1 1 1 1 1 1 1 1 1 1 V 12 11 10 9 8 7 6 5 H 16 15 14 13 12 11 10 9 8 7 6 5 4 Z m 1,1 h 1 1 1 1 1 1 1 1 v 1 1 1 1 1 1 H 11 10 9 8 7 6 5 4 V 11 10 9 8 7 Z m 9,0 h 1 1 1 v 1 1 1 1 1 1 H 15 14 13 V 11 10 9 8 7 Z m -7,8 v 1 1 1 1 H 5 4 v 1 h 1 1 1 v -1 -1 -1 -1 -1 z m 7,0 v 1 1 1 1 h -1 -1 v 1 h 1 1 1 v -1 -1 -1 -1 -1 z"
+           style="fill:#ffffff;fill-opacity:1"
+           id="path75"
+           inkscape:label="body" />
+        <path
+           d="m 5,7 v 1 1 1 1 H 6 V 10 9 8 7 Z m 5,0 v 1 1 1 1 h 1 V 10 9 8 7 Z"
+           style="fill:#ffffff;fill-opacity:1"
+           id="path76"
+           inkscape:label="eyes" />
+      </g>
+    </g>
+  </g>
+</svg>
