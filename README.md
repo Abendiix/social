@@ -31,7 +31,27 @@ The templates where designed taking into account what are the best sizes and rat
 
 When every frame for every category was finished, I imported them onto [Kdenlive](https://github.com/KDE/kdenlive) to set up a common template file for each category and size. Each category has an "S" (for square) size and a "V" (for vertical) size. The use of the different sizes will depend on what is best for each platform and the showcased content will be the same on every platform.
 
-### Preview
+
+### Preview (Version 2)
+A preview of every category and size for taking a quick look at them:
+
+https://github.com/user-attachments/assets/018f298c-a31f-4452-b1a2-da812c490d7b
+
+https://github.com/user-attachments/assets/3ad87f0e-bfd6-4d52-a9e1-a6949263d0d0
+
+https://github.com/user-attachments/assets/acefb4e2-e163-45e7-bb0e-967ebe4aeea6
+
+https://github.com/user-attachments/assets/d3f11bbd-6e35-4aea-b521-f4da8021cfa0
+
+https://github.com/user-attachments/assets/af93c1f5-b691-4ef0-8eb0-8ba847f0d25c
+
+https://github.com/user-attachments/assets/156dbd40-c643-446d-867f-d4e3e3de6cc8
+
+https://github.com/user-attachments/assets/62be9994-2dc4-4fd0-a344-f7c5991f9729
+
+https://github.com/user-attachments/assets/1b3adaa9-920e-40fd-b56c-a8d7a996d16f
+
+### Preview (Version 1)
 A preview of every category and size for taking a quick look at them:
 
 https://github.com/user-attachments/assets/ca083da5-f115-41d9-9d75-9110ed85bd7d
